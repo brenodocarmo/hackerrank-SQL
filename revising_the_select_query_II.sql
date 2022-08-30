@@ -6,4 +6,4 @@ populations larger than 120000. The CountryCode for America is USA.
 select
     NAME
 from CITY
-where COUNTRYCODE = 'USA' AND POPULATION > 120000
+where COUNTRYCODE = 'USA' AND POPULATION > 120000 

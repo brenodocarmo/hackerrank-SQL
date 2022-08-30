@@ -6,4 +6,4 @@ from STATION. Your result cannot contain duplicates.
 SELECT 
     distinct city
 from station
-WHERE city REGEXP '^(a|e|i|o|u)'
+WHERE city REGEXP '^(a|e|i|o|u)' 

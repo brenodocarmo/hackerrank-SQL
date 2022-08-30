@@ -5,4 +5,4 @@ table and the number of distinct CITY entries in the table.
 
 SELECT 
     COUNT(city) - count(distinct(city)) 
-from station
+from station 
